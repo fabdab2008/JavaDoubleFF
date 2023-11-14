@@ -1,0 +1,137 @@
+IBTESHAM   22   01710800790   Baridara   Red eyes,swelling left eye irritation
+Mehedi Hasan   23   01555666256   Dhanmondi    irritation in left eye
+Sumaiya Rahman   23   01877667788   Gulshan   Corneal abrasion
+Rahim Ali   39   01988778899   Uttara   Blepharitis
+Ayesha Rahman   44   01699889900   Banani   Nystagmus
+Hasan Hossain   29   01511223344   Dhanmondi   Irritation in left eye
+Nadia Rahman   36   01722334455   Mirpur   Blurred vision
+Rahman Akter   43   01833445566   Gulshan   Redness and itching in both eyes
+Karim Akter   29   01944556677   Uttara   Watery eyes
+Sultana Rahman   47   01655667788   Mohammadpur   Double vision
+Nadia Hossain   31   01766778899   Banani   Light sensitivity
+Rahman Hossain   50   01877889900   Dhanmondi   Eye strain
+Karim Rahman   25   01988990011   Mirpur   Twitching of eyelid
+Sultana Akter   39   01600001122   Gulshan   Conjunctivitis
+Naeem Hossain   32   01711112233   Uttara   Cataracts
+Sadia Akter   46   01822223344   Mohammadpur   Glaucoma
+Rahman Rahman   27   01533334455   Banani   Lazy eye
+Sumaiya Rahman   42   01644445566   Dhanmondi   Astigmatism
+Mizanur Akter   33   01755556677   Mirpur   Macular degeneration
+Taslima Ali   48   01866667788   Gulshan   Color blindness
+Imran Rahman   26   01977778899   Uttara   Diabetic retinopathy
+Ayesha Akter   41   01688889900   Banani   Retinal detachment
+Rukhsar Hossain   34   01799990011   Dhanmondi   Keratoconus
+Mehedi Akter   49   01611001122   Mohammadpur   Uveitis
+Fariha Rahman   30   01722112233   Gulshan   Crossed eyes
+Nusrat Ali   37   01833223344   Uttara   Night blindness
+Imran Akter   50   01944334455   Banani   Ptosis (Drooping eyelid)
+Sadia Rahman   35   01655445566   Dhanmondi   Strabismus
+Karim Hossain   38   01766556677   Mirpur   Photophobia
+Sumaiya Rahman   23   01877667788   Gulshan   Corneal abrasion
+Rahim Ali   39   01988778899   Uttara   Blepharitis
+Ayesha Rahman   44   01699889900   Banani   Nystagmus
+Nadia Ali   36   01511223344   Dhanmondi   Dry eyes
+Rahman Begum   28   01722334455   Mirpur   Blurred vision
+Karim Rahman   43   01833445566   Gulshan   Redness and itching in both eyes
+Sultana Akter   29   01944556677   Uttara   Watery eyes
+Hasan Ali   47   01655667788   Mohammadpur   Double vision
+Sumaiya Rahman   31   01766778899   Banani   Light sensitivity
+Mizanur Akter   50   01877889900   Dhanmondi   Eye strain
+Taslima Ali   25   01988990011   Mirpur   Twitching of eyelid
+Imran Rahman   39   01600001122   Gulshan   Conjunctivitis
+Ayesha Khan   32   01711112233   Uttara   Cataracts
+Rukhsar Rahman   46   01822223344   Mohammadpur   Glaucoma
+Sadia Akter   27   01533334455   Banani   Lazy eye
+Farida Hossain   42   01644445566   Dhanmondi   Astigmatism
+Aminul Rahman   33   01755556677   Mirpur   Macular degeneration
+Sabina Ali   48   01866667788   Gulshan   Color blindness
+Naeem Akter   26   01977778899   Uttara   Diabetic retinopathy
+Arif Rahman   41   01688889900   Banani   Retinal detachment
+Rukhsar Hossain   34   01799990011   Dhanmondi   Keratoconus
+Mehedi Akter   49   01611001122   Mohammadpur   Uveitis
+Fariha Rahman   30   01722112233   Gulshan   Crossed eyes
+Nusrat Ali   37   01833223344   Uttara   Night blindness
+Imran Akter   50   01944334455   Banani   Ptosis (Drooping eyelid)
+Sadia Rahman   35   01655445566   Dhanmondi   Strabismus
+Karim Hossain   38   01766556677   Mirpur   Photophobia
+Karim Ali   36   01511223344   Dhanmondi   Redness and itching in both eyes
+Sultana Begum   28   01722334455   Mirpur   Watery eyes
+Nasir Rahman   43   01833445566   Gulshan   Double vision
+Fariha Akter   29   01944556677   Uttara   Light sensitivity
+Amin Khan   47   01655667788   Mohammadpur   Eye strain
+Rukhsar Khan   31   01766778899   Banani   Twitching of eyelid
+Mizanur Akter   50   01877889900   Dhanmondi   Conjunctivitis
+Taslima Rahman   25   01988990011   Mirpur   Cataracts
+Imran Ali   39   01600001122   Gulshan   Glaucoma
+Sadia Rahman   32   01711112233   Uttara   Lazy eye
+Farida Akter   46   01822223344   Mohammadpur   Astigmatism
+Aminul Khan   27   01533334455   Banani   Macular degeneration
+Sabina Hossain   42   01644445566   Dhanmondi   Color blindness
+Naeem Rahman   33   01755556677   Mirpur   Diabetic retinopathy
+Arifa Akter   48   01866667788   Gulshan   Retinal detachment
+Hasan Ahmed   26   01977778899   Uttara   Keratoconus
+Sumaiya Khan   41   01688889900   Banani   Uveitis
+Rahim Akter   34   01799990011   Dhanmondi   Crossed eyes
+Nadia Rahman   49   01611001122   Mohammadpur   Night blindness
+Kamal Hossain   30   01722112233   Gulshan   Ptosis (Drooping eyelid)
+Nusrat Akter   37   01833223344   Uttara   Strabismus
+Mehedi Hasan   44   01944334455   Banani   Photophobia
+Taslima Rahman   35   01655445566   Dhanmondi   Corneal abrasion
+Rahima Akter   38   01766556677   Mirpur   Blepharitis
+Imran Rahman   23   01877667788   Gulshan   Nystagmus
+Ayesha Akter   45   01988778899   Uttara   Irritation in left eye
+Karim Rahman   29   01699889900   Banani   Blurred vision
+Hasan Ali   34   01511112222   Dhanmondi   Dry eyes
+Fatima Rahman   26   01712223333   Mirpur   Blurred vision
+Rahman Khan   41   01823334444   Gulshan   Redness and itching in both eyes
+Sumaiya Akter   29   01934445555   Uttara   Watery eyes
+Naeem Ahmed   37   01645556666   Mohammadpur   Double vision
+Farida Khan   50   01756667777   Banani   Light sensitivity
+Mizanur Rahman   22   01867778888   Dhanmondi   Eye strain
+Ayesha Akter   45   01978889999   Mirpur   Twitching of eyelid
+Imran Hossain   32   01689990000   Gulshan   Conjunctivitis
+Sadia Islam   48   01700001111   Uttara   Cataracts
+Akbar Ali   23   01811112222   Mohammadpur   Glaucoma
+Sabina Rahman   40   01522223333   Banani   Lazy eye
+Shahid Khan   33   01633334444   Dhanmondi   Astigmatism
+Amina Akter   47   01744445555   Mirpur   Macular degeneration
+Mahmud Ahmed   25   01855556666   Gulshan   Color blindness
+Taslima Rahman   38   01966667777   Uttara   Diabetic retinopathy
+Mehedi Hasan   49   01677778888   Banani   Retinal detachment
+Nusrat Jahan   30   01788889999   Dhanmondi   Keratoconus
+Ahmed Khan   44   01899990000   Mirpur   Uveitis
+Rukhsar Akter   27   01900001111   Gulshan   Crossed eyes
+Naimul Haque   46   01511112222   Uttara   Night blindness
+Rahima Begum   31   01612223333   Mohammadpur   Ptosis (Drooping eyelid)
+Arif Hossain   42   01723334444   Banani   Strabismus
+Sara Khan   28   01834445555   Dhanmondi   Photophobia
+Zahid Rahman   43   01945556666   Mirpur   Corneal abrasion
+Taslima Hossain   35   01656667777   Gulshan   Blepharitis
+Aminul Islam   39   01767778888   Uttara   Nystagmus
+Jahanara Khan   24   01878889999   Banani   Irritation in left eye
+Abdul Rahman   28   01882345678   Gulshan   Redness and itching in both eyes
+Nadia Islam   42   01993456789   Uttara   Dry eyes
+Imran Khan   30   01674567890   Mohammadpur   Watery eyes
+Sabina Yasmin   50   01785678901   Banani   Double vision
+Rahim Ahmed   19   01896789012   Dhanmondi   Light sensitivity
+Farida Begum   55   01907890123   Mirpur   Eye strain
+Kamal Hossain   33   01618901234   Gulshan   Twitching of eyelid
+Ayesha Khan   40   01729012345   Uttara   Conjunctivitis
+Rashid Alam   26   01830123456   Mohammadpur   Cataracts
+Sultana Akter   48   01541234567   Banani   Glaucoma
+Arif Ahmed   31   01652345678   Dhanmondi   Lazy eye
+Nusrat Jahan   44   01763456789   Mirpur   Astigmatism
+Ibrahim Khan   37   01874567890   Gulshan   Macular degeneration
+Rukhsar Begum   29   01985678901   Uttara   Color blindness
+Mohammed Ali   39   01696789012   Banani   Diabetic retinopathy
+Sadia Rahman   20   01707890123   Dhanmondi   Retinal detachment
+Mustafa Ahmed   45   01818901234   Mirpur   Keratoconus
+Fariha Begum   27   01929012345   Gulshan   Uveitis
+Kamrun Nahar   36   01640123456   Uttara   Crossed eyes
+Naimul Haque   49   01751234567   Mohammadpur   Night blindness
+Sara Khan   22   01862345678   Banani   Ptosis (Drooping eyelid)
+Arifa Akter   38   01573456789   Dhanmondi   Strabismus
+Zahid Islam   32   01684567890   Mirpur   Photophobia
+Taslima Hossain   46   01795678901   Gulshan   Corneal abrasion
+Aminul Khan   25   01906789012   Uttara   Blepharitis
+Sabrina Ahmed   41   01817890123   Banani   Nystagmus

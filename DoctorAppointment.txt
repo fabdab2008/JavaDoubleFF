@@ -1,0 +1,29 @@
+Karim   ibtesham   Tue Nov 14 20:05:42 BDT 2023   1300   Boshundhara
+Mahfuzul Islam   Mehedi Hasan   Fri Nov 17 18:22:56 BDT 2023   1530hrs   Dhanmondi Eye Hospital,Room 355
+Dr. Sabrina Akter   Farida Akter   Fri Nov 17 18:22:56 BDT 2023   1530hrs   Dhanmondi Eye Hospital, Room 355
+Dr. Kamal Ahmed   Imran Hossain   Sat Nov 18 11:45:32 BDT 2023   0930hrs   Mirpur Eye Clinic, Room 201
+Dr. Sharmin Sultana   Nusrat Jahan   Mon Nov 20 15:10:21 BDT 2023   1100hrs   Gulshan Eye Center, Room 112
+Dr. Rukhsar Khan   Sara Khan   Wed Nov 22 14:05:49 BDT 2023   1430hrs   Banani Eye Care, Room 102
+Dr. Akram Hossain   Aminul Khan   Fri Nov 24 10:30:15 BDT 2023   0900hrs   Dhanmondi Eye Hospital, Room 410
+Dr. Nusrat Jahan   Sadia Akter   Sun Nov 26 16:18:30 BDT 2023   1630hrs   Mirpur Eye Clinic, Room 305
+Dr. Amina Begum   Shahid Khan   Tue Nov 28 09:52:44 BDT 2023   0800hrs   Gulshan Eye Center, Room 201
+Dr. Saifur Rahman   Mehedi Hasan   Thu Nov 30 13:27:10 BDT 2023   1330hrs   Banani Eye Care, Room 301
+Dr. Yasmin Begum   Rukhsar Hossain   Sat Dec 2 12:01:36 BDT 2023   1130hrs   Dhanmondi Eye Hospital, Room 202
+Dr. Fahmida Islam   Zahid Rahman   Mon Dec 4 08:36:02 BDT 2023   0800hrs   Mirpur Eye Clinic, Room 405
+Dr. Sabrina Akter   Naimul Haque   Wed Dec 6 17:42:58 BDT 2023   1730hrs   Gulshan Eye Center, Room 112
+Dr. Imran Hossain   Taslima Ali   Fri Dec 8 14:58:04 BDT 2023   1430hrs   Banani Eye Care, Room 302
+Dr. Sharmin Sultana   Karim Akter   Sun Dec 10 11:13:10 BDT 2023   1030hrs   Dhanmondi Eye Hospital, Room 410
+Dr. Rukhsar Khan   Sultana Rahman   Tue Dec 12 08:29:16 BDT 2023   0800hrs   Mirpur Eye Clinic, Room 305
+Dr. Akram Hossain   Naeem Hossain   Thu Dec 14 19:35:22 BDT 2023   1900hrs   Gulshan Eye Center, Room 201
+Dr. Nusrat Jahan   Imran Akter   Sat Dec 16 16:51:28 BDT 2023   1630hrs   Banani Eye Care, Room 301
+Dr. Amina Begum   Sadia Rahman   Mon Dec 18 14:07:34 BDT 2023   1430hrs   Dhanmondi Eye Hospital, Room 202
+Dr. Saifur Rahman   Karim Hossain   Wed Dec 20 11:23:40 BDT 2023   1030hrs   Mirpur Eye Clinic, Room 102
+Dr. Yasmin Begum   Sumaiya Rahman   Fri Dec 22 08:39:46 BDT 2023   0800hrs   Gulshan Eye Center, Room 201
+Dr. Fahmida Islam   Mehedi Akter   Sun Dec 24 17:45:52 BDT 2023   1730hrs   Banani Eye Care, Room 301
+Dr. Sabrina Akter   Fariha Rahman   Tue Dec 26 15:02:58 BDT 2023   1500hrs   Dhanmondi Eye Hospital, Room 410
+Dr. Imran Hossain   Nusrat Ali   Thu Dec 28 12:19:04 BDT 2023   1130hrs   Mirpur Eye Clinic, Room 305
+Dr. Sharmin Sultana   Imran Akter   Sat Dec 30 09:35:10 BDT 2023   0900hrs   Gulshan Eye Center, Room 112
+Dr. Rukhsar Khan   Nasir Rahman   Mon Jan 2 18:41:16 BDT 2024   1800hrs   Banani Eye Care, Room 302
+Dr. Akram Hossain   Fariha Akter   Wed Jan 4 15:57:22 BDT 2024   1530hrs   Dhanmondi Eye Hospital, Room 202
+Dr. Nusrat Jahan   Amin Khan   Fri Jan 6 13:13:28 BDT 2024   1300hrs   Mirpur Eye Clinic, Room 410
+
